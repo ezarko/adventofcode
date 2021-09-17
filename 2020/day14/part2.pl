@@ -36,4 +36,3 @@ for (@lines) {
     die "$_\n";
   }
 }
-print sum(values %mem) . "\n";
